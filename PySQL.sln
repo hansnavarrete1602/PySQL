@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PySQL", "PySQL\PySQL.pyproj", "{FB62C74B-AED1-4214-841D-E71E9E970178}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB62C74B-AED1-4214-841D-E71E9E970178}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB62C74B-AED1-4214-841D-E71E9E970178}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D55EF408-AF8E-42CF-BC68-3DAB9CDD21DC}
+	EndGlobalSection
+EndGlobal
